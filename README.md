@@ -9,7 +9,7 @@ All of the tests mentioned below can run against any site with configurable leve
 Key Features
 ============
 
-1. Run REST API tests using Apache Jmeter - Same test can run against any OMC site defined in site properties or even REST endpoints outside of OMC.
+1. Run REST API tests using Apache Jmeter - Same test can run against any site defined in site properties.
 
 2. Framework can run API invocation tests against VIP, OHS, INTERNAL and direct WLS endpoints.
 
